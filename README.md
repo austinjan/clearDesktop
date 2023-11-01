@@ -20,3 +20,13 @@ go run main.go -backup
 go run main.go -restore
 ```
 
+Ensure you have administrative privileges when running the tool, especially when accessing the public desktop.
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for more details.
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+## Disclaimer
+Always backup your data before running any tools that modify files. While this tool aims to be safe, the author(s) are not responsible for any data loss or issues arising from its use.
